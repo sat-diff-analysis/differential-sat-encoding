@@ -1,2 +1,2 @@
-# differential-sat-encoding
-Encoding strategies and solver benchmarks for differential characteristic search in lightweight block ciphers using SAT/SMT techniques.
+# Evaluating CNF/SMT Encodings for SAT-Based Differential Cryptanalysis of Lightweight Ciphers
+
